@@ -6,7 +6,7 @@
 	echo "<ul>";
 	while (false !== ($entry = $d->read())) {
 		if(!in_array($entry, $blacklist)){
-			echo "<li><a href='{$entry}'>{$entry}</a></li>";
+			echo "<li><a href='{$entry}'>".ucwords($entry)."</a></li>";
 		}
 	}
 	echo "</ul>";
