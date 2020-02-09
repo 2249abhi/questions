@@ -2,6 +2,18 @@
 error_reporting( E_ALL);
 ini_set('display_errors', 1);
 
+/*
+Different Types of Inheritance
+
+Single inheritance.
+Multi-level inheritance.
+Multiple inheritance.
+Multipath inheritance.
+Hierarchical Inheritance.
+Hybrid Inheritance.
+
+multiple inheritence is not support by php so we use interface.
+*/
 interface Info
 {
 	public function firstname();
