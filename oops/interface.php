@@ -2,8 +2,6 @@
 
 // Methods inside interface must be implemented in all classes which implement interface.
 
-//if a function define inside interface with one variable 
-//then inside class it will take only one variable not two
 
 error_reporting( E_ALL);
 ini_set('display_errors', 1);

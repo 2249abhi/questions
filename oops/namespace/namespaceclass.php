@@ -1,5 +1,7 @@
 <?php
-/*namespace My_Namespace;
+/*
+A namespace is used to avoid conflicting definitions
+namespace My_Namespace;
 
 
 class My_Class {
