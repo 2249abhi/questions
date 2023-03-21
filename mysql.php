@@ -3,6 +3,12 @@
 
 //Ref: https://www.letsknowit.com/mysql-questions
 
+  =>How to manage large amount of data
+    1. increase buffer pool size 80% of ram
+    2. indexing on table
+    3. partitioning in table
+    4. mysql sharding and clustering
+
   What is difference between DBMS and RDBMS
 
   How many types of JOINS in SQL
