@@ -1,7 +1,7 @@
 <?php
 //reverse string without php
 $val = "abhishek"; 
- $len = strlen($val);
+ $len = strlen($val)-1;
 
  /*for($i=$len;$i>=0;$i--)
  {
