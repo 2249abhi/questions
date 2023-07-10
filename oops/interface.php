@@ -5,6 +5,8 @@
 
 error_reporting( E_ALL);
 ini_set('display_errors', 1);
+//Interfaces allow you to specify what methods a class should implement.
+//Interfaces are declared with the "interface" keyword:
 
 interface Info
 {
