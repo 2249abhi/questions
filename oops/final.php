@@ -1,4 +1,12 @@
 <?php
+/*
+The final keyword prevents child classes from overriding a method or 
+constant by prefixing the definition with final. 
+If the class itself is being defined final then it cannot be extended.
+
+Note: Properties cannot be declared final: only classes, methods, 
+and constants may be declared as final.
+*/
 class BaseClass {
    public function test() {
        echo "BaseClass::test() called\n";
