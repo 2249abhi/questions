@@ -17,7 +17,5 @@
 * traits
 * early and late binding
 
-
-
-*?
+*/
 ?>
