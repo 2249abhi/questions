@@ -7,7 +7,7 @@
     1. increase buffer pool size 80% of ram
     2. indexing on table
     3. partitioning in table
-    4. mysql sharding and clustering
+    4. mysql sharding(small part of whole) and clustering(connect with more then 1 DB)
 
   What is difference between DBMS and RDBMS
 
