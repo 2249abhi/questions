@@ -20,6 +20,6 @@
   How to get the student name got maximum marks in a class
     
   What is difference between PRIMARY key and UNIQUE Key in sql
-  
+   normalization in mysql
   
 ?>
