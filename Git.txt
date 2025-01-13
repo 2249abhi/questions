@@ -1,0 +1,13 @@
+Basic steps:
+(let current branch abhishri)
+git status
+
+git pull origin main 
+
+git add .
+
+git commit -m "test"
+
+git pull origin main
+
+git push origin abhishri
